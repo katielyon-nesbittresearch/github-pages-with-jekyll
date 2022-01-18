@@ -1,5 +1,5 @@
 ---
-title: Katie's Blog Post
+title: "Katie's Blog Post"
 date: 2022-01-18
 ---
 
